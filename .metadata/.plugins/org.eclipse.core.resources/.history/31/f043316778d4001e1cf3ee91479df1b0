@@ -1,0 +1,12 @@
+package t01;
+
+public class Test4 {//클래스블록
+	public static void main(String[] args)  { // * 메소드 블럭 메인을 메소드 - 실행메소드 string은 문자열
+		System.out.println("1.반갑습니다.");
+		System.out.print("2.반갑습니다.");
+		System.out.println("3.반갑습니다.");
+		System.out.println("3.반갑습니다.");
+	
+	}
+
+}
